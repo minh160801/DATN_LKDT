@@ -1,0 +1,12 @@
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\bin\Debug\net6.0\shop.Utilities.deps.json
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\bin\Debug\net6.0\shop.Utilities.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\bin\Debug\net6.0\shop.Utilities.pdb
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.AssemblyInfoInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.AssemblyInfo.cs
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.sourcelink.json
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\refint\shop.Utilities.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\shop.Utilities.pdb
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\shop.Utilities\obj\Debug\net6.0\ref\shop.Utilities.dll
