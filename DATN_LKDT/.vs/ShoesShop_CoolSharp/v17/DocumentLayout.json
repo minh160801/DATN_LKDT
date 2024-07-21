@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhn\\OneDrive\\M\u00E1y t\u00EDnh\\DATN2\\DATN_LKDT\\DATN_LKDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89D56D1-A195-49DA-A24D-F25F66F26960}|shop.Infrastructure\\shop.Infrastructure.csproj|c:\\users\\minhn\\onedrive\\m\u00E1y t\u00EDnh\\datn2\\datn_lkdt\\datn_lkdt\\shop.infrastructure\\configuration\\cartdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89D56D1-A195-49DA-A24D-F25F66F26960}|shop.Infrastructure\\shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\configuration\\cartdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartDetailsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\OneDrive\\M\u00E1y t\u00EDnh\\DATN2\\DATN_LKDT\\DATN_LKDT\\shop.Infrastructure\\Configuration\\CartDetailsConfiguration.cs",
+              "RelativeDocumentMoniker": "shop.Infrastructure\\Configuration\\CartDetailsConfiguration.cs",
+              "ToolTip": "C:\\Users\\minhn\\OneDrive\\M\u00E1y t\u00EDnh\\DATN2\\DATN_LKDT\\DATN_LKDT\\shop.Infrastructure\\Configuration\\CartDetailsConfiguration.cs",
+              "RelativeToolTip": "shop.Infrastructure\\Configuration\\CartDetailsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:04:54.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.csproj.AssemblyReference.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.AssemblyInfoInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.AssemblyInfo.cs
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Application\obj\Debug\net6.0\shop.Application.sourcelink.json

@@ -1,0 +1,13 @@
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\bin\Debug\net6.0\shop.Domain.deps.json
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\bin\Debug\net6.0\shop.Domain.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\bin\Debug\net6.0\shop.Domain.pdb
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.csproj.AssemblyReference.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.AssemblyInfoInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.AssemblyInfo.cs
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.sourcelink.json
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\refint\shop.Domain.dll
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\shop.Domain.pdb
+C:\Users\minhn\OneDrive\Máy tính\DATN2\DATN_LKDT\DATN_LKDT\shop.Domain\obj\Debug\net6.0\ref\shop.Domain.dll
